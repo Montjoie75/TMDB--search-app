@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krub:wght@200&display=swap');
+
+
+ .header-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-between;
+    background-color: rgba(255, 255, 255, 0.424);
+    box-shadow: 10px 5px 10px rgba(182, 182, 182, 0.40);
+    top:0;
+    left:0;
+    width: 100%; 
+    padding-top:1%;   
+    padding-bottom:1%;
+    margin-bottom:30px; 
+  }
+  
+ .container-headerLogo {
+    padding-left : 2.70%;
+    padding-right: 2.5%;
+  } 
+
+  .header-logo{
+    width: 230px;
+  }
+
+  .search-box-container{
+    width: 40%;
+    display: flex;
+    flex-direction: row;
+    align-items:flex-start;
+    margin-right:2.7%;
+    justify-content: flex-end;
+  }
+
+  .search-input{
+    display: flex;
+    flex-direction: row;
+    min-width:40%;
+    min-height:50px;
+    outline:0;
+    font-size: 25px;
+    padding-left:10px;
+    border-radius: 5px;
+    border:none;
+    font-family: 'Krub', sans-serif;
+    margin-left:20px;
+  }
+
