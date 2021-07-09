@@ -9,7 +9,7 @@ function App() {
   const [nowPlayingMovie, setNowPlayingMovie]=useState("");
   const [inputValue, setInputValue] = useState('');
 
-  const apiKey="54d6f0bcfcc31734859f6f025c88446b";
+  const apiKey = "";
 
   useEffect(()=>{
       axios.get(`https://api.themoviedb.org/3/movie/now_playing?api_key=${apiKey}`)
