@@ -1,6 +1,6 @@
 # TMDB--search-app
 
-A small application that enables user to look for movies.
+A small application that enables users to search for movies.
 
 Used API: The Movie Database (TMDB).
 
