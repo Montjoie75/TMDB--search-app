@@ -6,7 +6,7 @@ Used API: The Movie Database (TMDB).
 
 Register to https://www.themoviedb.org/?language=fr and get an API key.
 
-Once done, after installing the project on your machine, open the App.js file and simply assign the value to the appKey constant variable, entering your API key in between brackets, like this: 
+Once done, after installing the project on your machine, open the App.js file and simply assign the value to the apiKey constant variable, entering your API key in between brackets, like this: 
 
     const apiKey = "enter your API key here"
 
