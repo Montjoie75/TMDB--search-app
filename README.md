@@ -14,7 +14,7 @@ In your console:
 
    1. first, clone the project:
     
-    git@github.com:Montjoie75/Api-call---Weather.git
+    git clone git@github.com:Montjoie75/TMDB--search-app.git
    
    2. open the "movies-react" folder;
    
